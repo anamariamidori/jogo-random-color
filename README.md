@@ -1,1 +1,2 @@
 # jogo-random-color
+Jogo ensinado pela Digital Innovacion One, o qual contando com a professora Gabriela Pinheiro (https://github.com/SpruceGabriela) a qual ensina os códigos e a passa a base do projeto. Esse jogo tem como objetivo treinar as partes basicas do javascript e recriar o jogo genius o qual é um quebra cabeças de cores, fazer esse projeto foi divertido, conquistei conhecimentos de funções no javascript os quais não tinha conheciento, a parte que tive mais dificuldade foi a parte de fazer o jogo piscar dando as ordens de cores para o jogador.
